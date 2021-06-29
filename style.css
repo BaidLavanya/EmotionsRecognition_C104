@@ -1,0 +1,22 @@
+body{
+    background-color: #FABC2A;
+    color: #220901;
+}
+.header{
+    width: 75%;
+    font-size: 30px;
+    color: #CCD7C5;
+}
+.objNames{
+    color: #493B2A;
+    font-size: 23px;
+}
+hr{
+    width: 70%;
+}
+#camera{
+    border: 3px dotted;
+    border-color: #574D68;
+    width: 350px;
+    height: 300px;
+}
